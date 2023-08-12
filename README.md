@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MaxDaniliuk
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking for a junior position
+- 🌱 Working on a personal portfolio
 - 📫 You can reach me via maksim.daniliuk@gmail.com
 
 <!---
