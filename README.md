@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaxDaniliuk
+- 👋 Hi, I'm Maksim Daniliuk
 - 👀 Enjoy learning and building new stuff
 - 🌱 Working on a personal portfolio (Recent project -- CyberClub-- http://cyber-club.daniliuk.com/
 - 📫 You can reach me via maksim.daniliuk@gmail.com
