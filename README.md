@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxDaniliuk
-- 👀 I’m interested in programming
-- 🌱 Working on a personal portfolio
+- 👀 Enjoy learning and building new stuff
+- 🌱 Working on a personal portfolio (Recent project -- CyberClub-- http://cyber-club.daniliuk.com/
 - 📫 You can reach me via maksim.daniliuk@gmail.com
 
 <!---
